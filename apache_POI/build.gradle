@@ -1,0 +1,13 @@
+plugins {
+    id 'java-library'
+}
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_1_7
+    targetCompatibility = JavaVersion.VERSION_1_7
+}
+
+dependencies {
+    implementation files("C:\\Users\\Atharava  Kadam\\Downloads\\poi-3.17.jar")
+    implementation files("C:\\Users\\Atharava  Kadam\\Downloads\\poi-3.17.jar")
+}
